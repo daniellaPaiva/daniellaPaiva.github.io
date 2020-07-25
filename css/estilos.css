@@ -42,7 +42,7 @@ header {
 }
 
 .menu {
-  background-color: white;
+  background-image: url('../img/cabecalho.jpg');
   position: fixed;
   width: 100vw;
   top: 0;
